@@ -1,0 +1,21 @@
+Codes: https://goo.gl/yvNj2t
+
+Arduino Code: mouseNew
+
+1.	Setup another ldr as the one you are given now
+2.	Print the readings of both the ldrs
+3.	Invert the mouse movements, L/R and R/L
+
+Processing code: mouseControl
+
+1.	Make the circle bigger
+2.	Make the walls larger in width
+3.	Change the color of the ball to pink
+4.	Make the background white and the walls black in color
+5.	Add a game over page when your game ends
+6.	Identify start and finish points(write, START and FINISH in the right points)
+7.	Add a new level when you reach the end of the game
+8.	When in new level, the ball and the walls get bigger.
+9.	Add obstacle in the path, if hit then game over.
+
+ 
